@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\DSXresolutionChange\bin\Debug\DSXresolutionChange.exe.config
+C:\Users\danie\source\repos\DSXresolutionChange\bin\Debug\DSXresolutionChange.exe
+C:\Users\danie\source\repos\DSXresolutionChange\bin\Debug\DSXresolutionChange.pdb
+C:\Users\danie\source\repos\DSXresolutionChange\obj\Debug\DSXresolutionChange.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\DSXresolutionChange\obj\Debug\DSXresolutionChange.Form1.resources
+C:\Users\danie\source\repos\DSXresolutionChange\obj\Debug\DSXresolutionChange.Properties.Resources.resources
+C:\Users\danie\source\repos\DSXresolutionChange\obj\Debug\DSXresolutionChange.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\DSXresolutionChange\obj\Debug\DSXresolutionChange.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\DSXresolutionChange\obj\Debug\DSXresolutionChange.exe
+C:\Users\danie\source\repos\DSXresolutionChange\obj\Debug\DSXresolutionChange.pdb
