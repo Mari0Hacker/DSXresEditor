@@ -40,7 +40,7 @@ namespace DSXresolutionChange
             bw.BaseStream.Position = 0x2e;
             bw.Write(0x02);
             bw.Close();
-            Console.WriteLine("it did the thing");
+            Console.WriteLine("Success");
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
@@ -49,7 +49,7 @@ namespace DSXresolutionChange
             bw.BaseStream.Position = 0x15;
             bw.Write(0x01);
             bw.Close();
-            Console.WriteLine("it did the thing");
+            Console.WriteLine("Succeeded");
         }
     }
 }
